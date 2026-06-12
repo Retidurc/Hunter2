@@ -6,3 +6,5 @@ This project intend to exposes multiple ways to change the properties of an obje
 
 
 To make a bit of fun of all thoses possibilities to do something wrong, the goal here is to "shoot yourself in the foot" by changin the state of the instance of foot.cs by any instance of "Weapon.cs". idealy there should be one method per "Weapon"
+
+Baguette 
